@@ -2,6 +2,11 @@
 Create your own class, input -> should be string, output -> method, should be return array of substrings.</br>
 output method -> get all the substrings between the open-close tags: "(", ")", "[", "]", "<", ">" from the string</br>
 
+<b>Details:</b></br>
+- in your class you can have only one method (output method)</br>
+- instead of additional methods, you should create and use blocks</br>
+- blocks can be as many as you want</br>
+
 <b>Test data strings:</b></br>
 <i>String:</i></br>
 @"Prime Minister <Narendra Modi> tweeted a <link> to the speech (Human Resource Development Minister Smriti Irani) <made> in the Lok Sabha during the ((debate) on the ongoing JNU row) and the suicide of Dalit scholar Rohith Vemula at the [Hyderabad Central University]."</br> 
