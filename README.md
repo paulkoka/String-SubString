@@ -7,7 +7,7 @@ output method -> get all the substrings between the open-close tags: "(", ")", "
 - instead of additional methods, you should create and use blocks</br>
 - blocks can be as many as you want</br>
 - use MRC</br>
-- your code shouldn't have leak. (Check your code on Liak. Your code shouldn't have leak, use for that suitable tool)</br>
+- your code shouldn't have leak. (Check your code on - Liak. Your code shouldn't have - Leak, use for that suitable tool)</br>
 
 <b>Test data strings:</b></br>
 <i>String:</i></br>
