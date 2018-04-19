@@ -1,5 +1,5 @@
 # String-SubString
-Create your own class, input -> should be string, output -> method should be return array of substrings.</br>
+Create your own class, input -> should be string, output -> method, should be return array of substrings.</br>
 output method -> get all the substrings between the open-close tags: "(", ")", "[", "]", "<", ">" from the string</br>
 
 <b>test data strings:</b></br>
